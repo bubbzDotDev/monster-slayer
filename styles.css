@@ -45,6 +45,14 @@ section {
   height: 100%;
 }
 
+#you-lost {
+  color: #880017;
+}
+
+#you-won {
+  color: green;
+}
+
 .container {
   text-align: center;
   padding: 0.5rem;
